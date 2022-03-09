@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "LeoECS/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/LeoECS.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LeoECS.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "LeoECS/1.0.0": {
-      "type": "project",
-      "path": "../LeoECS/LeoECS.csproj",
-      "msbuildProject": "../LeoECS/LeoECS.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "LeoECS >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\cornelis.dejager\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\DataPacking.Components\\DataPacking.Components.csproj",
-      "projectName": "DataPacking.Components",
-      "projectPath": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\DataPacking.Components\\DataPacking.Components.csproj",
+      "projectUniqueName": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\LeoECS\\LeoECS.csproj",
+      "projectName": "LeoECS",
+      "projectPath": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\LeoECS\\LeoECS.csproj",
       "packagesPath": "C:\\Users\\cornelis.dejager\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\DataPacking.Components\\obj\\",
+      "outputPath": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\LeoECS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,11 +40,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\LeoECS\\LeoECS.csproj": {
-              "projectPath": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\LeoECS\\LeoECS.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

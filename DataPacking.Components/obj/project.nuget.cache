@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qspX0UkvXzY0iGDs8tivV1XdyY8vJdJvxsjeIHRcyAjMhAQjV6XPSSExqu72Ew3x0SW7gbebdN2VNLZD428Lyw==",
+  "dgSpecHash": "Wns4LKSSkxiRAki06mv9tVWqFU7nC/oB/jcX8V1uXOI5tE1llbFhkD5kj8qfpw5F0z5l2MFv54E3ZCTY/NLWKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\cornelis.dejager\\source\\repos\\DataPacking.Console\\DataPacking.Components\\DataPacking.Components.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\cornelis.dejager\\.nuget\\packages\\ecs\\0.9.1.1\\ecs.0.9.1.1.nupkg.sha512",
-    "C:\\Users\\cornelis.dejager\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
-    "C:\\Users\\cornelis.dejager\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

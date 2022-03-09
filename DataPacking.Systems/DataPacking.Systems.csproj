@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="ECS" Version="0.9.1.1" />
-  </ItemGroup>
-
 </Project>

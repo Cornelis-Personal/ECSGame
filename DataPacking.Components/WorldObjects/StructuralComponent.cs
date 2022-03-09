@@ -1,13 +1,6 @@
-﻿using ECS;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DataPacking.Components.WorldObjects
+﻿namespace DataPacking.Components.WorldObjects
 {
-    public class StructuralComponent : Component
+    public struct StructuralComponent 
     {
         public float Health;
         public float Armor;

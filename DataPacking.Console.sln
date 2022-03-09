@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPacking.Systems", "Data
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ECS", "ECS", "{B46F0C74-266D-48CD-8E20-CBC7E2F274D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeoECS", "LeoECS\LeoECS.csproj", "{0C5CDE7A-E7DD-4560-844A-38BB16DB6EEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{B667C4C8-48C1-463C-AB35-ED993A49974A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B667C4C8-48C1-463C-AB35-ED993A49974A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B667C4C8-48C1-463C-AB35-ED993A49974A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5CDE7A-E7DD-4560-844A-38BB16DB6EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5CDE7A-E7DD-4560-844A-38BB16DB6EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5CDE7A-E7DD-4560-844A-38BB16DB6EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5CDE7A-E7DD-4560-844A-38BB16DB6EEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
