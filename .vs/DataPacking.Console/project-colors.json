@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6787d773-1ee1-4b94-9f39-9839b6529fdb": {
+      "ProjectGuid": "6787d773-1ee1-4b94-9f39-9839b6529fdb",
+      "DisplayName": "DataPacking.Console",
+      "ColorIndex": 0
+    },
+    "470666dd-a2cc-4e18-8740-f57dfb05898f": {
+      "ProjectGuid": "470666dd-a2cc-4e18-8740-f57dfb05898f",
+      "DisplayName": "DataPacking.Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
